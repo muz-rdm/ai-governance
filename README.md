@@ -34,3 +34,7 @@ All about AI Governance.
 - https://dataintegration.info/artificial-intelligence-risk-governance
 - https://asia.toshiba.com/press-release/english/toshiba-group-announces-ai-governance-statement-to-promote-provision-of-trustworthy-ai/
 - https://itch.io/jam/ai-gov
+
+
+### AI Regulation EU
+- https://www.europarl.europa.eu/news/en/headlines/society/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence#:~:text=In%20April%202021%2C%20the%20European,mean%20more%20or%20less%20regulation.
