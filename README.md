@@ -44,4 +44,11 @@ All about AI Governance.
 - https://www.reuters.com/technology/southeast-asia-set-guardrails-ai-with-new-governance-code-sources-2023-06-16/
 - https://asean.org/wp-content/uploads/2023/02/ASCC_Policy-Brief_Issue_6_Jan2023.pdf
 - https://www.straitstimes.com/asia/se-asia/singapore-and-asean-to-develop-new-regional-guidelines-on-artificial-intelligence-to-be-released-in-2024
-- 
+- https://asianews.network/asean-working-on-nuanced-ai-rules-to-smoothen-diverse-operations/
+- https://seads.adb.org/solutions/understanding-data-and-ai-regulations-southeast-asia
+- https://www.businesstimes.com.sg/international/asean/eus-new-ai-act-could-add-compliance-costs-asean-firms-industry-players
+- https://www.thestar.com.my/aseanplus/aseanplus-news/2023/06/19/asean-to-set-guardrails-on-ai
+- https://www.lexology.com/library/detail.aspx?g=486bde53-6544-46b6-807d-0892e23a70d3
+- https://www.lexology.com/library/detail.aspx?g=071c18e3-a955-4a8a-94bb-4b6e3e7085c9
+- https://laotiantimes.com/2023/06/20/asean-to-set-up-parameters-on-emerging-ai-technology/
+- https://www.eastasiaforum.org/2021/07/14/is-the-eus-ai-legislation-a-good-fit-for-asean/
