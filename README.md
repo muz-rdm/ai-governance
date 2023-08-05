@@ -38,3 +38,10 @@ All about AI Governance.
 
 ### AI Regulation EU
 - https://www.europarl.europa.eu/news/en/headlines/society/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence#:~:text=In%20April%202021%2C%20the%20European,mean%20more%20or%20less%20regulation.
+
+### AI Regulation ASEAN
+- https://dig.watch/updates/asean-ai-guide-in-making#:~:text=The%2010%2Dmember%20Association%20of,ASEAN%20'AI%20Guide').
+- https://www.reuters.com/technology/southeast-asia-set-guardrails-ai-with-new-governance-code-sources-2023-06-16/
+- https://asean.org/wp-content/uploads/2023/02/ASCC_Policy-Brief_Issue_6_Jan2023.pdf
+- https://www.straitstimes.com/asia/se-asia/singapore-and-asean-to-develop-new-regional-guidelines-on-artificial-intelligence-to-be-released-in-2024
+- 
